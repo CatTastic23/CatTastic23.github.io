@@ -1,3 +1,4 @@
-funtion alertz() {
+function alertz() 
+{
    alert("Hello, world!"); 
 }
