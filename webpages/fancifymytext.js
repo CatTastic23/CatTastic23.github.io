@@ -1,1 +1,3 @@
-alert("Hello, world!");
+funtion alertz() {
+   alert("Hello, world!"); 
+}
