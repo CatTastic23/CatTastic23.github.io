@@ -8,7 +8,7 @@ function promise() {
     return new Promise((resolve, reject) => {
         var txt = document.getElementById('feedme').value;
         if (txt % 2 == 1) {
-            resolve(alert('Success you are odd!'))
+            resolve(alert('Success you are an odd one!'))
         }
         else{
             reject(alert("Failed '" + txt + "' is not odd."))
